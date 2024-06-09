@@ -1,6 +1,6 @@
 ## Yo \o/
 <!-- I am too bored to write a bio rn XD -->
-- 🔭 I’m currently working as Fullstack Engineer
+- 🔭 I’m currently working as a Fullstack Engineer
 - 🌱 I’m currently learning
   - .NET Ecosystem
     - ASP.NET Core
