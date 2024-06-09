@@ -1,16 +1,23 @@
-## Hi there 👋
+## Yo \o/
+<!-- I am too bored to write a bio rn XD -->
+- 🔭 I’m currently working as Fullstack Engineer
+- 🌱 I’m currently learning
+  - .NET Ecosystem
+    - ASP.NET Core
+    - MAUI
+    - Blazor
+  - Azure
+- 🤔 I’m planning to learn next
+  - Rust
+- ⚡ I’m interested on
+  - Game Developement
+  - Web Developement
 
-<!--
-**NickoGNS/NickoGNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Skills
+- Typescript
+- AWS CDK & SDK
+- Node
+- React
+- Vue
