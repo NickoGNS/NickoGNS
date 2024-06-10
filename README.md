@@ -9,7 +9,7 @@
   - Azure
 - 🤔 I’m planning to learn next
   - Rust
-- ⚡ I’m interested on
+- ⚡ I’m interested in
   - Game Developement
   - Web Developement
 
