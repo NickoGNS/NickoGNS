@@ -5,7 +5,7 @@ I’m currently working as a Fullstack Engineer
   - .NET Ecosystem
     - ASP.NET Core
     - MAUI
-  - Azure
+  - Go
 - 🤔 I’m planning to learn next
   - Rust or C++
 - ⚡ I’m interested in
