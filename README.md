@@ -10,7 +10,7 @@ I’m currently working as a Fullstack Engineer
   - Rust or C++
 - ⚡ I’m interested in
   - Game Developement
-  - Web Developement
+  - Full-stack Developement
 
   
 
