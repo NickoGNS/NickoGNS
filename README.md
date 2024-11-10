@@ -9,8 +9,8 @@ I’m currently working as a Fullstack Engineer
 - 🤔 I’m planning to learn next
   - Rust or C++
 - ⚡ I’m interested in
-  - Game Developement
-  - Full-stack Developement
+  - Game Development
+  - Full-stack Development
 
   
 
